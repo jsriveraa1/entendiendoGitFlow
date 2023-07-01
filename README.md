@@ -1,0 +1,2 @@
+# entendiendoGitFlow
+Validación de GitFlow
